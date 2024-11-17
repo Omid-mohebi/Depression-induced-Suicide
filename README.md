@@ -51,7 +51,7 @@ The model is trained using the following steps:
 
 ## Results
 
-The model achieved an accuracy of approximately 100% on the training set and 78% on the test set. The predictions are saved in a CSV file named `submission.csv`.
+The model achieved an accuracy of approximately 100% (overfit I know..) on the training set and 78% on the test set. The predictions are saved in a CSV file named `submission.csv`.
 
 ## File Structure
 
